@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 146,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 5,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": [
+      {
+        "startDate": "12/10/2024",
+        "endDate": "12/13/2024"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 130,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 60,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 5,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 3,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 115,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 2,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 5,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": [
+      {
+        "startDate": "12/05/2024",
+        "endDate": "12/07/2024"
+      },
+      {
+        "startDate": "12/19/2024",
+        "endDate": "12/21/2024"
+      },
+      {
+        "startDate": "12/08/2024",
+        "endDate": "12/10/2024"
+      },
+      {
+        "startDate": "12/12/2025",
+        "endDate": "12/16/2025"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 114,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 4,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 5,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 114,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 4,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 6,
+        "petsNumber": 3
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 6,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 145,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 40,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 7,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 7,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 120,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 40,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 2,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 3,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 8,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 135,
+      "cleaningFee": 30,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 4,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 9,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 125,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 10,
+      "nightsCountForLongStayDiscount": 7,
+      "minStayNights": 3,
+      "isBookingOpen": false,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 10,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 140,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 50,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 5,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 11,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 150,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 5,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 1,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 12,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 115,
+      "cleaningFee": 20,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 30,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 1,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 13,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 140,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 40,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 3,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 14,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 125,
+      "cleaningFee": 50,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 50,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 1,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 15,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 130,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 40,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 4,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 16,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 145,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 50,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 1,
+      "isBookingOpen": false,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 17,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 150,
+      "cleaningFee": 30,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 70,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 2,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 5,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 18,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 140,
+      "cleaningFee": 20,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 50,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 4,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 19,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 155,
+      "cleaningFee": 10,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 25,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 3,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 20,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 150,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 70,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 1,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 4,
+        "petsNumber": 2
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 21,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 135,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 20,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 22,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 160,
+      "cleaningFee": 40,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 80,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 5,
+      "isBookingOpen": false,
+      "allowGuestsNumber": {
+        "peopleNumber": 1,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 23,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 145,
+      "cleaningFee": 30,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 80,
+      "nightsCountForLongStayDiscount": 8,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 3,
+        "petsNumber": 1
+      }
+    },
+    "alreadyBookedDates": []
+  },
+  {
+    "id": 24,
+    "guestCounts": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0
+    },
+    "bookingData": {
+      "pricePerNight": 150,
+      "cleaningFee": 30,
+      "airbnbServiceFee": 10,
+      "longStayDiscount": 60,
+      "nightsCountForLongStayDiscount": 5,
+      "minStayNights": 3,
+      "isBookingOpen": true,
+      "allowGuestsNumber": {
+        "peopleNumber": 2,
+        "petsNumber": 0
+      }
+    },
+    "alreadyBookedDates": []
+  }
+]
