@@ -9,7 +9,11 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "f24-web-circle-berlin.netlify.app",
+  })
+);
 app.use(express.json());
 
 app.get("/places/:id", (req, res) => {
