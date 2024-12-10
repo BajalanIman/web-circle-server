@@ -16,6 +16,10 @@ app.use(
 );
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.send("Welcome to the API!");
+});
+
 app.get("/places/:id", (req, res) => {
   const placeId = parseInt(req.params.id);
   const place = products.find((p) => p.id === placeId);
